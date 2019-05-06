@@ -26,4 +26,4 @@ If applicable, add screenshots to help explain your problem.
 **Versions (please complete the following information):**
  - Confluence:
  - Plugin:
- - Data Center: If yes add the Data Center label on the right
+ - Data Center: Not Supported
